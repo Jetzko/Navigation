@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_layout">Home Layout</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="data_fragment">Data Fragment</string>
+
+    <string name="editor">Editor</string>
+    <string name="data">Data</string>
+    <string name="to_editor">To Editor</string>
+    <string name="to_data">To Data</string>
+    <string name="editor_fragment">Editor Fragment</string>
+    <string name="editor_to_home">To Home</string>
+    <string name="data_to_home_">To Home</string>
+</resources>
